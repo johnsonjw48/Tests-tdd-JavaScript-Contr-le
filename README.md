@@ -2,6 +2,6 @@
 
 #### Installer Node js
 
-#### Faire npm install
+####  npm install
 
-### Executer les tests avec :  ./node_modules/.bin/mocha --reporter spec 
+###   ./node_modules/.bin/mocha --reporter spec 
